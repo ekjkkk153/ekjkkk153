@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://github.com/ekjkkk153/ekjkkk153/blob/main/256.png"/>
+<img src="https://github.com/ekjkkk153/ekjkkk153/blob/main/870.png" width="256" height="256"/>
 
 Hi! I'm software engineer who is interested in modern web services.
   
