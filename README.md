@@ -26,9 +26,6 @@ I'm especially interested in retail and mobile services.
   <img src="https://img.shields.io/badge/JavaScript-FFB13B?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/node.js-43853D?style=flat-square&logo=nodedotjs&logoColor=white"/>
-  <br>
  </p>
  
 ### 📱 Frontend Solutions
@@ -36,7 +33,7 @@ I'm especially interested in retail and mobile services.
  <p align="center">
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code&007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 </p>
 
 
@@ -45,6 +42,7 @@ I'm especially interested in retail and mobile services.
  <p align="center">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/ASP.NET-5E5E5E?style=flat-square&logo=Microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/node.js-43853D?style=flat-square&logo=nodedotjs&logoColor=white"/>
 </p>
 
 ### 📊 Databases
