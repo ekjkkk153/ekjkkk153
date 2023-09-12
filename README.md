@@ -31,6 +31,7 @@ It's honor to see you.
 
 📊 Database
 
+<p align="center">
   <img src="https://img.shields.io/badge/MySQL-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=white"/>
@@ -38,6 +39,8 @@ It's honor to see you.
 </p>
 
 ☁️ Cloud Services
+
+<p align="center">
   <img src="https://img.shields.io/badge/AWS-333664?style=flat-square&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=Microsoft%20Azure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/>
