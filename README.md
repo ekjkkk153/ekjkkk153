@@ -19,7 +19,7 @@ I'm especially interested in retail and mobile services.
   <img src="https://img.shields.io/badge/Java-437291?style=flat-square&logo=OpenJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-000000?style=flat-square&logo=C%20Sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.NET&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Delphi-E62431?style=flat&logo=Delphi&logoColor=white"/> 
