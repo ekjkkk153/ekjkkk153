@@ -1,9 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hello!%20I%27m%20Potato%F0%9F%A5%94&fontSize=90)
 
+<div align="center">
 Hi! I'm software engineer who is interested in modern web services.
+  
 It's honor to see you.
 
-<div align="center">
 🛠 Below is my tech stacks that I've used at least once 🛠
 
 📔  Languages
