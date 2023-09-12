@@ -23,6 +23,7 @@ I'm especially interested in retail and mobile services.
   <img src="https://img.shields.io/badge/C%23-000000?style=flat-square&logo=C%20Sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.NET&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Delphi-E62431?style=flat&logo=Delphi&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-FFB13B?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
