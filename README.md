@@ -2,14 +2,14 @@
 
 <div align="center">
 
-![profile](https://github.com/ekjkkk153/ekjkkk153/blob/main/PROFILE.png)
+<img src="https://github.com/ekjkkk153/ekjkkk153/blob/main/256.png"/>
 
 Hi! I'm software engineer who is interested in modern web services.
   
 It's honor to see you.
 
 
-I'm especially interested in retail and mobile services
+I'm especially interested in retail and mobile services.
 
 ## 🛠 Below is my tech stacks list that I've used at least once 🛠
 
